@@ -8,8 +8,7 @@ You can find how to contact me in the following paltform icon url. You can follo
 </details>
 
 
-- 
-- 👋 Weclome to my 
+- 👋 Hi, there!
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
