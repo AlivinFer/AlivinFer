@@ -21,8 +21,8 @@ A curious coder, an occasional philosopher, and a professional bug creator! 🐞
 ## 📫 How to reach me?
 
 - 🏠 知乎: [https://www.zhihu.com/people/alivinfer](https://www.zhihu.com/people/alivinfer)
-- 📧 Email: [[alivinfer@163.com](mailto:alivinfer@163.com)]
-- ✍️ CSDN 博客:https://blog.csdn.net/qq_40949254?spm=1010.2135.3001.5421]
+- 📧 Email: alivinfer@163.com](mailto:alivinfer@163.com
+- ✍️ CSDN 博客:https://blog.csdn.net/qq_40949254?spm=1010.2135.3001.5421
 
 ## 🛠️ Tools & Tech Stack
 
